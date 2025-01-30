@@ -1,0 +1,18 @@
+# Ignore virtual environment
+venv/
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE specific files
+.vscode/
+.idea/
+
+#testing folder
+.file/
