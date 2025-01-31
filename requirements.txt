@@ -1,4 +1,8 @@
-#ffmpeg
-openai-whisper 20240930
-torch 2.6.0
-sentence-transformers 3.4.1
+# FFmpeg needs to be installed separately for OpenAI whisper
+# Rust for openAI whisper
+# python version 3.10
+
+torch==2.6.0
+setuptools-rust==1.10.2
+openai-whisper==20240930
+sentence-transformers==3.4.1

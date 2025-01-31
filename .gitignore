@@ -15,4 +15,4 @@ __pycache__/
 .idea/
 
 #testing folder
-.file/
+file/*
