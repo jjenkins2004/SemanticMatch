@@ -6,6 +6,6 @@ Takes an object URl as input, and is compatible with all OpenAI whisper audio fo
 
 Could be useful for automatic transcribing and grading of audio based responses.
 
-Uses:
-OpenAI whisper
-Sentence Transformer paraphrase-multilingual-MiniLM-L12-v2
+Uses: <br>
+OpenAI whisper <br>
+Sentence Transformer paraphrase-multilingual-MiniLM-L12-v2 <br>
